@@ -10,4 +10,9 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 
+    public String test() {
+        // 功能分支
+        return "";
+    }
+
 }
